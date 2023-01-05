@@ -1,7 +1,11 @@
+
+ 
+
 # 💫 About Me:
  
 <div align="">
- <img align="right" src="https://media4.giphy.com/media/sDjEhZBhLns37ca4lz/giphy.gif?cid=790b7611d58d73749779926ff8553883a2a9bbee4d1e7694&rid=giphy.gif&ct=g"   />
+
+<img align="right" src="https://media2.giphy.com/media/MBt40GQ3wXqAmyznFy/giphy.gif"   />
 
  
 🔭 I’m currently working on myself
@@ -35,6 +39,8 @@
 
 
 # 📊 GitHub Stats:
+
+ <img align="right" src="https://media4.giphy.com/media/sDjEhZBhLns37ca4lz/giphy.gif?cid=790b7611d58d73749779926ff8553883a2a9bbee4d1e7694&rid=giphy.gif&ct=g"   />
 
 ![](https://github-readme-stats.vercel.app/api?username=HemangVora&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
