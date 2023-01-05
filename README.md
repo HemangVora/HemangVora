@@ -5,7 +5,7 @@
  
 <div align="">
 
-<img align="right" width="100%" src="https://media2.giphy.com/media/MBt40GQ3wXqAmyznFy/giphy.gif"   />
+<img align="right" width="50%" src="https://media4.giphy.com/media/DPFidIEQMZLVgplIPK/giphy.gif?cid=790b7611431bbcfed65fb77122ff4ef033d07066340fc972&rid=giphy.gif&ct=g"   />
 
  
 🔭 I’m currently working on myself
