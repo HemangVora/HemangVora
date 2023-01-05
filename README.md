@@ -5,7 +5,7 @@
  
 <div align="">
 
-<img align="right" width="50%" src="https://media4.giphy.com/media/DPFidIEQMZLVgplIPK/giphy.gif?cid=790b7611431bbcfed65fb77122ff4ef033d07066340fc972&rid=giphy.gif&ct=g"   />
+<img align="right" width="54%" src="https://media4.giphy.com/media/DPFidIEQMZLVgplIPK/giphy.gif?cid=790b7611431bbcfed65fb77122ff4ef033d07066340fc972&rid=giphy.gif&ct=g"   />
 
  
 🔭 I’m currently working on myself
@@ -40,7 +40,7 @@
 
 # 📊 GitHub Stats:
 
- <img align="right" src="https://media4.giphy.com/media/sDjEhZBhLns37ca4lz/giphy.gif?cid=790b7611d58d73749779926ff8553883a2a9bbee4d1e7694&rid=giphy.gif&ct=g"   />
+ <img align="right" height="200px" src="https://media4.giphy.com/media/sDjEhZBhLns37ca4lz/giphy.gif?cid=790b7611d58d73749779926ff8553883a2a9bbee4d1e7694&rid=giphy.gif&ct=g"   />
 
 ![](https://github-readme-stats.vercel.app/api?username=HemangVora&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
