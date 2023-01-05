@@ -40,15 +40,16 @@
 
 # 📊 GitHub Stats:
 
- <img align="left" height="200px" src="https://media4.giphy.com/media/sDjEhZBhLns37ca4lz/giphy.gif?cid=790b7611d58d73749779926ff8553883a2a9bbee4d1e7694&rid=giphy.gif&ct=g"   />
+ <img align="right" height="200px" width="300px"  src="https://media4.giphy.com/media/sDjEhZBhLns37ca4lz/giphy.gif?cid=790b7611d58d73749779926ff8553883a2a9bbee4d1e7694&rid=giphy.gif&ct=g"   />
 
 ![](https://github-readme-stats.vercel.app/api?username=HemangVora&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
-<img align="right" height="200px" src="https://media4.giphy.com/media/sDjEhZBhLns37ca4lz/giphy.gif?cid=790b7611d58d73749779926ff8553883a2a9bbee4d1e7694&rid=giphy.gif&ct=g"   />
+<img align="right" height="200px" width="300px" src="https://media3.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif?cid=ecf05e47zhz0l5uj06gtswj0kc8xu8x1rtle60b4obacifwd&rid=giphy.gif&ct=g"   />
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=HemangVora&theme=dark&hide_border=false"   />
 
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HemangVora&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HemangVora&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"   />
+</p>
 
 ## 🏆 GitHub Trophies
 
