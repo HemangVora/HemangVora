@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on myself<br>👯 I’m looking to collaborate on projects<br>🤝 I’m looking for help with open source contribution<br>🌱 I’m currently learning react and react native<br>💬 Ask me about my experience<br>⚡ Fun fact I think i can code
 
-[![LinkedIn](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.codementor.io%2F%40martinsoluwaseun47%2Ffew-tips-to-help-you-become-a-better-developer-uysiwwzg6&psig=AOvVaw1KprMyu8zHtpPq6PXdbH2J&ust=1672991069269000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLCY-cT3r_wCFQAAAAAdAAAAABAE)
+[![LinkedIn](https://process.filestackapi.com/cache=expiry:max/resize=width:1050/efbSR18hT5uRKuo0zoMA)
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hemangvora) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/hemang-vora) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Hemangvora1) 
 
