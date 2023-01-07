@@ -50,10 +50,7 @@
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HemangVora&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"   />
 </p>
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=HemangVora&theme=darkhub&no-frame=true&no-bg=false&margin-w=4)
+ 
 
 ## 🐦 Latest Tweet
 
