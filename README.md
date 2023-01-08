@@ -55,10 +55,8 @@
 ## 🐦 Latest Tweet
 
 [![](https://gtce.itsvg.in/api?username=Hemangvora1)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
- 
-[![](https://visitcount.itsvg.in/api?id=HemangVora&label=Profile%20Visits&color=12&pretty=true)](https://visitcount.itsvg.in)
 
-![](https://komarev.com/ghpvc/?username=HemangVora)
+![](https://komarev.com/ghpvc/?username=HemangVora&color=grey)
 
 
   ## 💰 You can help me by Donating
