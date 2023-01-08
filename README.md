@@ -56,7 +56,7 @@
 
 [![](https://gtce.itsvg.in/api?username=Hemangvora1)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
-![](https://komarev.com/ghpvc/?username=HemangVora&color=grey)
+![](https://komarev.com/ghpvc/?username=HemangVora&color=blue)
 
 
   ## 💰 You can help me by Donating
