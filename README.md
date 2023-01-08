@@ -58,6 +58,8 @@
  
 [![](https://visitcount.itsvg.in/api?id=HemangVora&label=Profile%20Visits&color=12&pretty=true)](https://visitcount.itsvg.in)
 
+![](https://komarev.com/ghpvc/?username=HemangVora)
+
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/hemangvora) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/hemangvora)  
