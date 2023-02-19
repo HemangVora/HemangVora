@@ -15,8 +15,6 @@
 🌱 I’m currently learning react and react native<br> 
  
 👯 I’m looking to collaborate on projects
- 
-👨‍💻 All of my projects are available at : <a href="">Portfolio</a>
 
 📫 How to reach me : hemangvora2@gmail.com
  
