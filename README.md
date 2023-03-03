@@ -44,10 +44,10 @@
  
 
 
-<p><img align="left" width="30%"   height="35%" src="https://github-readme-stats.vercel.app/api/top-langs?username=hemangvora&show_icons=true&locale=en&layout=compact" alt="hemangvora" />
-<img align="left" width="30%" height="35%"  src="https://github-readme-stats.vercel.app/api?username=hemangvora&show_icons=true&locale=en" alt="hemangvora" />
+<p>
+<img align="left" width="40%" height="35%"  src="https://github-readme-stats.vercel.app/api?username=hemangvora&show_icons=true&locale=en" alt="hemangvora" />
 </p>
-<img width="33%" align="left" height="35%" src="https://github-readme-streak-stats.herokuapp.com/?user=hemangvora&" alt="hemangvora" />
+<img width="40%" align="left" height="35%" src="https://github-readme-streak-stats.herokuapp.com/?user=hemangvora&" alt="hemangvora" />
 
 <p></p>
 
