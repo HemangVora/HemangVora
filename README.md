@@ -1,6 +1,6 @@
 <h3 align="center">A passionate frontend developer from India</h3> 
 
-# 💫 About Me:
+# 💫 About Me: 
  
 <div align="">
 
