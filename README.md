@@ -1,6 +1,6 @@
 <h3 align="center">A passionate frontend developer from India</h3> 
 
-# 💫 About Me: 
+# 💫 About Me:  
  
 <div align="">
 
@@ -32,7 +32,7 @@
 <a href="https://discord.gg/#5855" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#5855" height="30" width="40" /></a>
 </p>
  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hemangvora&label=Profile%20views&color=0e75b6&style=flat" alt="hemangvora" /> </p>
+<p  align="left"> <img src="https://komarev.com/ghpvc/?username=hemangvora&label=Profile%20views&color=0e75b6&style=flat" alt="hemangvora" /> </p>
 
 <p align="left"> <a href="https://twitter.com/hemangvora1" target="blank"><img src="https://img.shields.io/twitter/follow/hemangvora1?logo=twitter&style=for-the-badge" alt="hemangvora1" /></a> </p>
   
