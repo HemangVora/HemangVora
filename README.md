@@ -2,7 +2,7 @@
 
 # 💫 About Me:
  
-<div align="">
+<div align=""> 
 
 <img  align="right" width="45%"  src="https://media4.giphy.com/media/DPFidIEQMZLVgplIPK/giphy.gif?cid=790b7611431bbcfed65fb77122ff4ef033d07066340fc972&rid=giphy.gif&ct=g"   />
 
