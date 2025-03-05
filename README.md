@@ -32,7 +32,7 @@
  
 <p align="left"> <img  src="https://komarev.com/ghpvc/?username=hemangvora&label=Profile%20views&color=0e75b6&style=flat" alt="hemangvora" /> </p>
 
-<p align="left"> <a href="https://twitter.com/corotvoid" target="blank"><img src="https://img.shields.io/twitter/follow/0xCorot?logo=twitter&style=for-the-badge" alt="corotvoid" /></a> </p>
+<p align="left"> <a href="https://twitter.com/corotvoid" target="blank"><img src="https://img.shields.io/twitter/follow/corotvoid?logo=twitter&style=for-the-badge" alt="corotvoid" /></a> </p>
   
 
 # 💻 Tech Stack:
