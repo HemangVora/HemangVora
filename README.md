@@ -4,18 +4,13 @@
  
 <div align=""> 
    
-  
-🔭 I’m currently working on myself
+ 
 
 🤝 I’m looking for help with open source contribution<br>
- 
-🌱 I’m currently learning react and react native<br> 
  
 👯 I’m looking to collaborate on projects
 
 📫 How to reach me : hemangvora2@gmail.com
- 
-⚡ Fun fact I think I can code :-p
   
 
 </div>
